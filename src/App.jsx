@@ -1,4 +1,7 @@
 import './App.css'
+import Trees7 from './assets/Trees7.png'
+import Light2 from './assets/Light2.jpg'
+import Jack12 from './assets/Jack12.png'
 
 const books = [
   {
@@ -7,7 +10,7 @@ const books = [
     author: "Stanley B. Howard",
     description: "Though not a Homeric odyssey, this a fictionalized life journey, told as only the traveller could tell it.",
     amazonLink: "https://www.amazon.com/When-Dogwood-Blooms-Seasons-Boys-ebook/dp/B0BSNQ5T1L",
-    coverImage: "./src/assets/Trees7.png",
+    coverImage: Trees7,
     altText: "When the Dogwood Blooms: Seasons in a Boy's Life"
   },
 
@@ -17,7 +20,7 @@ const books = [
     author: "Stanley B. Howard",
     description: "A history-based American Odyssey told by the raven friend of Edgar Allan Poe and Ulysses S. Grant.",
     amazonLink: "https://www.amazon.com/Icarus-American-Stanley-B-Howard-ebook/dp/B0BW4LQNN1",
-    coverImage: "./src/assets/Light2.jpg",
+    coverImage: Light2,
     altText: "Icarus: An American Odyssey"
   },
 
@@ -27,7 +30,7 @@ const books = [
     author: "Stanley B. Howard",
     description: "A story of pure-O OCD and how it affects daily life.",
     amazonLink: "https://www.amazon.com/Me-Jack-Stanley-B-Howard-ebook/dp/B0G2KDVWZ7",
-    coverImage: "./src/assets/Jack12.png",
+    coverImage: Jack12,
     altText: "Me: Jack in the Box with OCD"
   }
 
