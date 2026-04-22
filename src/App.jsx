@@ -1,7 +1,7 @@
 import './App.css'
 import Trees from './assets/Trees.jpg'
-import Icarus from './assets/Light2.jpg'
-import Jack12 from './assets/Jack12.png'
+import Icarus from './assets/Icarus.jpg'
+import Jack from './assets/Jack.jpg'
 
 const books = [
   {
@@ -30,7 +30,7 @@ const books = [
     author: "Stanley B. Howard",
     description: "A story of pure-O OCD and how it affects daily life.",
     amazonLink: "https://www.amazon.com/Me-Jack-Stanley-B-Howard-ebook/dp/B0G2KDVWZ7",
-    coverImage: Icarus,
+    coverImage: Jack,
     altText: "Me: Jack in the Box with OCD"
   }
 
