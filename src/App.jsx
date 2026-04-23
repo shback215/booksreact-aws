@@ -10,8 +10,12 @@ const books = [
     author: "Stanley B. Howard",
     description: "Though not a Homeric odyssey, this a fictionalized life journey, told as only the traveller could tell it.",
     amazonLink: "https://www.amazon.com/When-Dogwood-Blooms-Seasons-Boys-ebook/dp/B0BSNQ5T1L",
-    coverImage: Trees,
-    altText: "When the Dogwood Blooms: Seasons in a Boy's Life"
+    coverImage: Trees,    
+    altText: "When the Dogwood Blooms: Seasons in a Boy's Life",
+    chapters: [
+      { title: "Chapter 1", link: "https://www.amazon.com/Three-Stories-Plague-Chapter-Chapters-ebook/dp/B0BTY71HZ2" },
+      { title: "Chapter 2", link: "https://www.amazon.com/Year-Valley-Chapter-Dogwood-Chapters/dp/B0BW2RY35C" }
+    ]
   },
 
   {
