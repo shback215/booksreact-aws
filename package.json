@@ -1,9 +1,9 @@
 {
-  "name": "booksreact",
+  "name": "booksreact-aws",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://shback215.github.io/booksreact",
+  "homepage": "https://shback215.github.io/booksreact-aws",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
